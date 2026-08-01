@@ -1,16 +1,27 @@
 {
 	"title": {
 		"media": {
-			"url": "https://themobmuseum.org/wp-content/uploads/2024/10/Rosenthal-533x400-1.jpg",
-			"caption": "Frank Rosenblatt",
-			"credit": "themobmuseum/<a href='https://themobmuseum.org/wp-content/uploads/2024/10/Rosenthal-533x400-1.jpg'></a>"
+			"url": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*S3IerS-6qKFgThgtDVuuPQ.png",
+			"caption": "The History of Neural Networks"
 		},
 		"text": {
-			"headline": "Frank Rosenblatt<br/> 1958",
-			"text": "<p>Frank Rosenblatt introduced the Perceptron, an early hardware and software implementation of a learning network capable of binary classification. It was celebrated as a breakthrough because it could learn from data, though its inability to solve non-linear problems like the XOR function caused major setbacks later.</p>"
+			"headline": "The History of Neural Networks<br/> 1958 - 2017"
 		}
 	},
 	"events": [
+		{
+			"media": {
+				"url": "https://matthewrenze.com/wp-content/uploads/2020/02/the-history-of-ai.jpg",
+				"caption": "Frank Rosenblatt",
+				"credit": "themobmuseum/<a href='https://themobmuseum.org/wp-content/uploads/2024/10/Rosenthal-533x400-1.jpg'></a>"
+			},
+			"start_date": {
+				"year": "1958"
+			},
+			"text": {
+				"headline": "Frank Rosenblatt",
+				"text": "<p>Frank Rosenblatt introduced the Perceptron, an early hardware and software implementation of a learning network capable of binary classification. It was celebrated as a breakthrough because it could learn from data, though its inability to solve non-linear problems like the XOR function caused major setbacks later.</p>"			}
+		},
 		{
 			"media": {
 				"url": "https://matthewrenze.com/wp-content/uploads/2020/02/the-history-of-ai.jpg",

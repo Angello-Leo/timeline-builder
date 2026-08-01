@@ -11,9 +11,9 @@
 	"events": [
 		{
 			"media": {
-				"url": "https://matthewrenze.com/wp-content/uploads/2020/02/the-history-of-ai.jpg",
+				"url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Frank_Rosenblatt.jpg",
 				"caption": "Frank Rosenblatt",
-				"credit": "themobmuseum/<a href='https://themobmuseum.org/wp-content/uploads/2024/10/Rosenthal-533x400-1.jpg'></a>"
+				"credit": "Wikipedia/<a href='https://en.wikipedia.org/wiki/File:Frank_Rosenblatt.jpg'></a>"
 			},
 			"start_date": {
 				"year": "1958"
